@@ -11,7 +11,7 @@
 #
 # Para consturir la imagen del servidor se ejecuta:
 #
-# $ docker build --tag=dmunoz/api-server:0.1 . 
+# $ docker build --tag=evytaylor/api-server:0.1 . 
 #
 # Las inages actuales se pueden listar con:
 #
